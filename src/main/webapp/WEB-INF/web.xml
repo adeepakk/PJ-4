@@ -6,8 +6,8 @@
 	<!-- Define Velocity template compiler -->
 
 	<welcome-file-list>
-		<welcome-file>index.html</welcome-file>
-		<welcome-file>index.htm</welcome-file>
+		<welcomes-file>index.html</welcomes-file>
+		<welcomes-file>index.htm</welcomes-file>
 	</welcome-file-list>
 
 	<listener>
